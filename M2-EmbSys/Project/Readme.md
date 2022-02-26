@@ -31,6 +31,7 @@ hitting, and punching.
 # Micro Servo Motor SG90
 Micro Servo Motor SG90 is a tiny and lightweight server motor with high output power. Servo can rotate approximately 180 degrees (90 in each direction), and works just like the standard kinds but smaller.
 You can use any servo code, hardware or library to control these servos. Good for beginners who want to make stuff move without building a motor controller with feedback & gear box, especially 
+
 since it will fit in small places. It comes with a 3 horns (arms) and hardware.
 
 # potentiometer 
@@ -43,6 +44,14 @@ LCD modules form a very important in many Arduino based embedded system designs 
 code easily. Any Arduino board, a 16X2 LCD display, jumper wires and a breadboard are sufficient enough to build the circuit.
 
 # High level Requirements and Low Level Requirements 
+# High level requirements
+| Id    | Description |
+| ---   |    ---      |
+|  HLR01 |The high-level signal is sent to 10 microseconds using Trigger.|
+|  HLR02 |The module sends 40 KHz signals automatically and then detects whether the pulse is received or not through Echo.|
+|  HLR03 |If the signal is received, then it is through high level. The time of high duration is the time gap between sending and receiving the signal.|
+
+
 
 
 
