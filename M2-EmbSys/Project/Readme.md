@@ -1,4 +1,4 @@
-# Servo Motor Control With Distance
+# Servo Motor angle Control With Distance
 
 Distance Measurement using Arduino Ultrasonic Sensor is a project to measure shorter distance precisely. 
 Before getting started you must know about Ultrasonic Sensor HC SR-04, which is a low-cost sensor. The ultrasonic
