@@ -8,6 +8,8 @@ If an obstacle is placed before the sensor, the transmitted pulse ejected strike
 This data is processed to calculate distance
 
 # Block Diagram
+![2022-02-26 (2)](https://user-images.githubusercontent.com/98897256/155836916-a0587b67-eb00-41ad-adf1-37b6d478c5a2.png)
+
 
 
 
