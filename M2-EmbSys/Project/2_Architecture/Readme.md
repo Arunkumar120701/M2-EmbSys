@@ -1,4 +1,4 @@
-Behavioral Diagram:
+# Behavioral Diagram:
 
 
-Circuit Connections:
+# Circuit Connections:
