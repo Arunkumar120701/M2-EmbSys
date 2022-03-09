@@ -3,9 +3,7 @@
 
 
 # High level UML use case:
-
-
-
+![servo_motor_connections](https://user-images.githubusercontent.com/98897256/157389535-39e9a1b5-6234-4513-aafe-fdb6522d2564.jpg)
 
 
 # Circuit Connections:
