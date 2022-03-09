@@ -51,8 +51,12 @@ code easily. Any Arduino board, a 16X2 LCD display, jumper wires and a breadboar
 |  HLR02 |The module sends 40 KHz signals automatically and then detects whether the pulse is received or not through Echo.|
 |  HLR03 |If the signal is received, then it is through high level. The time of high duration is the time gap between sending and receiving the signal.|
 
+# Low level requirements
+| Id    | Description |
+| ---   |    ---      |
+| LLR01 | Sensor output will be in the form of digital valuen in the LCD display'|
+| LLR02 | servo expects to see a pulse every 20 milliseconds (.02 seconds).
+| LLR03	| We will make the motor turn to the 90-degree position (often called as the neutral position).|
+| LLR04 | If the pulse is shorter than 1.5 milliseconds, then the motor will turn the shaft closer to 0 degrees. |
+| LLR05 | If the pulse is longer than 1.5 milliseconds, the shaft turns closer to 180 degrees.|
 
-
-
-
-	
