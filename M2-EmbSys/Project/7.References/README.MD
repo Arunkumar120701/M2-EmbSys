@@ -1,8 +1,8 @@
-Code 
+#  Code 
 
 ultrasonic sensor and servo motorfunctions from arduino sites 
 
-Software Used
+# Software Used
 
 simule IDE for simulation
 
