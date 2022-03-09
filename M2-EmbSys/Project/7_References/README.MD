@@ -1,12 +1,12 @@
-Code 
+# CODE 
 
 ultrasonic sensor and servo motorfunctions from arduino sites 
 
-Software Used
+# SOFTWARE USED 
 
-simule IDE for simulation
+ simule IDE for simulation
 
-Arduino IDE for coding 
+ Arduino IDE for coding 
 
-online sites for making UML diagrams and block Diagrams 
+ online sites for making UML diagrams and block Diagrams 
 
